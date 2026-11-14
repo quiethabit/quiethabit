@@ -1,6 +1,8 @@
 
 
-  <p align="center">
+<img src="<img width="517" height="307" alt="image" src="https://github.com/user-attachments/assets/6533cf87-83f7-431c-b588-d4f45ac5a830" />
+" width="150">
+<p align="center">
   <img src="https://img.shields.io/badge/♡%20◞%20˚-6,320-c9a4c3?style=flat&labelColor=555555" alt="♡ ◞ ˚">
 </p>
 <img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/2d833249-bc18-4c47-899d-d0598f7b6814" />
