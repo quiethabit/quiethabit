@@ -1,11 +1,9 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8b6c3e61-43f3-4785-b5dc-771fc1e863e7" width="70">
-  <img src="https://img.shields.io/badge/%F0%90%82%AF-6,320-c9a4c3?style=flat&labelColor=333333" alt="꒰ . ᣟ 𐂯
-    6,320">
+  <img src="https://img.shields.io/badge/%CE%B5%20%EF%BD%A5%20%EF%BC%8E%20%F0%90%82%AF-6,320-c9a4c3?style=flat&labelColor=333333" alt="ε ﹒ ‧ 𐂯 6,320">
   <img src="https://github.com/user-attachments/assets/6533cf87-83f7-431c-b588-d4f45ac5a830" width="70">
 </p>
-
 
 
 
