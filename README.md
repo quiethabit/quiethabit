@@ -1,5 +1,5 @@
-<img width="510" height="309" alt="image" src="https://github.com/user-attachments/assets/a6ef2347-5911-4206-8dda-bc91a7216103" />
-<p align="center"><img width="517" height="307" alt="image" src="https://github.com/user-attachments/assets/71fcfbdf-20cb-4941-be4e-7e86e273a65c" />
+<img src="<img width="517" height="307" alt="image" src="https://github.com/user-attachments/assets/d2f30c75-bfde-4b68-97c9-eae53a17dd6e" />
+" width="300">
 
   <img src="https://img.shields.io/badge/♡%20◞%20˚-6,320-c9a4c3?style=flat&labelColor=555555" alt="♡ ◞ ˚">
 </p>
