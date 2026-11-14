@@ -9,11 +9,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2d833249-bc18-4c47-899d-d05987b6814" width="2048" />
-</p>
-
-
 
 
 
