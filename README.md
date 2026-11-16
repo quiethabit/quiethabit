@@ -28,7 +28,7 @@ $${\color{#ad9cbb}w2i\space \space}$$
 
 <a href="https://hearts4kyle.straw.page">
   strawpage <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/cc9f128d-a6d4-4663-b620-b65ccd4f3fa0" />
-</a>
+
 <a href="https://rennisgimmicks.straw.page">
   gimmicks <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/cc9f128d-a6d4-4663-b620-b65ccd4f3fa0" />
 </a>
